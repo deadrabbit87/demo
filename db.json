@@ -1,4 +1,5 @@
 {
+    "plan": {
     "result": {
         "duration": 20241,
         "plan": [
@@ -35,5 +36,6 @@
         ],
         "unit": "EUR",
         "power": 3680
+    }
     }
 }
